@@ -1,0 +1,9 @@
+site,height,mean,sd,name_id,authors,year,Section,material,source,Type,Method
+MS7,733.22,525.34,0.045,M223,Maloof et al.,2010,Oues Sdas (MS-7) Adoudou Fm,zircon,volcanic ash,206Pb/238U,TIMS
+MS7,883.22,524.84,0.045,M231,Maloof et al.,2010,Oues Sdas (MS-7) Adoudou Fm,zircon,volcanic ash,206Pb/238U,TIMS
+MS7,1150.22,523.17,0.08,M234,Maloof et al.,2010,Oues Sdas (MS-7) Lie de Vin Fm,zircon,volcanic ash,206Pb/238U,TIMS
+MS7,1655.22,520.93,0.07,M236,Maloof et al.,2010,Oues Sdas (MS-7) Lie de Vin Fm,zircon,volcanic ash,206Pb/238U,TIMS
+MS3,770,517,0.75,,Landing et al.,1998,Talat n'Yissi,,,,
+MS6,719.0459,521.06,0.06,Ti-566,Landing et al,2021,Tiout,zircon,volcanic ash,206Pb/238U,TIMS
+MS6,1293.9,519.23,0.07,Ti-Am-0,Landing et al,2021,Tiout,zircon,volcanic ash,206Pb/238U,TIMS
+MS6,1329.2509,518.99,0.07,Ti-Am-34,Landing et al,2021,Tiout,zircon,volcanic ash,206Pb/238U,TIMS
