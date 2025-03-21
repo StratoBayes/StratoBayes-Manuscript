@@ -18,7 +18,8 @@ Replace *path/to/directory* with the actual path to the StratoBayes-Manuscript f
 
    ```r
    install.packages("StratoBayes", 
-                    repos = c("file:///path/to/StratoBayes-Manuscript/", getOption("repos")), 
+                    repos = c("file:///path/to/StratoBayes-Manuscript/",
+                     getOption("repos")), 
                     type = "binary", 
                     dependencies = TRUE)
    ```
