@@ -541,7 +541,7 @@ Figure B3: Comparison of prior and posterior probability densities. Histograms i
 :::
 
 # Code and data availability
-The StratoBayes R package can be installed from binaries by following the instructions at https://stratobayes.github.io. The data and code used to generate the results, and copies of the software binaries, are available at https://github.com/StratoBayes/StratoBayes-Manuscript and the linked Zenodo archive https://zenodo.org/records/15064824.
+The StratoBayes R package can be installed from binaries by following the instructions at https://stratobayes.github.io. The data and code used to generate the results, and copies of the software binaries, are available at https://github.com/StratoBayes/StratoBayes-Manuscript and the linked Zenodo archive https://zenodo.org/records/15065257.
 
 # Author contribution
 MRS and ARM conceived the idea. MRS, ARM and MS designed the initial model version, and all authors contributed to the design of the final model. MS, ARM and MRS coded the software prototype. KE, MRS and ARM modified and expanded the software. MS curated the lower Cambrian data. KE conducted the analyses and visualised the results. KE wrote the initial manuscript draft, and all authors contributed to the final version. MRS coordinated the project. MRS and ARM acquired the funding.
