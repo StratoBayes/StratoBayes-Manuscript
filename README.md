@@ -2,12 +2,18 @@
 
 Author(s): [Kilian Eichenseer](mailto:kilian.eichenseer@gmail.com), [Matthias Sinnesael](mailto:sinnesam@tcd.ie), [Martin R. Smith](mailto:martin.smith@durham.ac.uk) and [Andrew R. Millard](mailto:A.R.Millard@durham.ac.uk)
 
-This repository contains the data and code required to run the analyses and generate the results for the article "StratoBayes: A Bayesian method for automated stratigraphic correlation and age modelling" submitted to Geochronology in 2025. 
+This repository contains the data and code required to run the analyses and generate the results for the article "StratoBayes: A Bayesian method for automated stratigraphic correlation and age modelling" published in *Geochronology* in 2025. 
 
 To run StratoBayes, please visit [stratobayes.github.io/software/](https://stratobayes.github.io/software.html) for installation instructions. To seamlessly use the R scripts in this repository, download the repo, unpack the Zip archive and navigate the working directory of your R session to that folder using `setwd()` or by opening the *StratoBayesManuscript* R project in RStudio.
 
 To cite the paper: 
-> Kilian Eichenseer, Matthias Sinnesael, Martin R. Smith and Andrew R. Millard. 2025. StratoBayes: A Bayesian method for automated stratigraphic correlation and age modelling. Submitted to *Geochronology*.
+> Eichenseer, K., Sinnesael, M., Smith, M. R. and Millard, A. R. (2025). StratoBayes: a Bayesian method for automated stratigraphic correlation and age modelling. *Geochronology* 7(4), 545–570. https://doi.org/10.5194/gchron-7-545-2025
+
+-------
+
+## Licence
+
+The scripts, data and figures in this repository are licensed under CC BY 4.0 (see [LICENSE](LICENSE)). The StratoBayes package binaries in **./bin** are licensed separately under the PolyForm Strict License 1.0.0, which is included with each package, and are free for non-commercial research. Commercial use of StratoBayes needs a licence from StratoBayes Limited ([support@stratobayes.com](mailto:support@stratobayes.com)).
 
 -------
 
